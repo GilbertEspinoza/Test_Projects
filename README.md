@@ -10,10 +10,9 @@ during software testing. test training website "https://demo.guru99.com/test/new
 The data collected to make the template were: ID, Title, criticality, environment, type of defect, operating system,
 description, preconditions, steps to follow, expected result, actual result and evidence.
 
-# 1_TestingAndDocmentation: In this project we tested the documentation in testing with the creation of test cases 
-to ensure the quality of the software of a frequently used site such as the web page of the university where I
-study: "https://campus.fch.unicen.edu.ar/". more detailed information is given on the tests performed on different 
-sections of the web page, with the expected results, the results obtained and the corresponding evidence.
+# 1_TestingAndDocmentation:  Test cases were created in this project to ensure the quality of the software of a frequently 
+used site such as the web page of the university where I study: "https://campus.fch.unicen.edu.ar/". More detailed information 
+is given on the tests performed on different sections of the web page, with the expected results, the results obtained and the corresponding evidence.
 
 # 2_ApiTesting: This project aimed to apply and implement the different API Testing methods, such as GET, PUT, DELETE and POST.
 In addition to testing endpoint calls, response codes and protocols used for communication between client-server applications.
