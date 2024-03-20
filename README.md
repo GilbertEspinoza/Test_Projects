@@ -11,4 +11,8 @@ during software testing. The testing website https://demo.guru99.com/test/newtou
 The data collected to make the template were: ID, Title, criticality, environment, type of defect, operating system,
 description, preconditions, steps to follow, expected result, actual result and evidence.
 
-# 1_TestingAndDocmentation
+
+# 1_TestingAndDocmentation: In this project we tested the documentation in testing with the creation of test cases 
+to ensure the quality of the software of a frequently used site such as the web page of the university where I
+study: "https://campus.fch.unicen.edu.ar/". more detailed information is given on the tests performed on different 
+sections of the web page, with the expected results, the results obtained and the corresponding evidence.
