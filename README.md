@@ -25,3 +25,5 @@ Gather sufficient data on each test performed, as well as its priority and evide
 
 # 3_FinalProyect_TestReport: This section contains the test report of the final project, where the results of the tests made to the website of the clothing brand https://mayorista.maurosergio.com/ were recorded.
 The problems encountered, errors identified, their type and criticality are summarized.
+
+# 4_Pruebas+automaticas+BuggyCars.side: This is a small project to practice my skills in Selenium IDE, for this we took a well known tester site, https://buggy.justtestit.org/ Buggycars, and performed tests such as: Registering a new user, home page, validating the voting system, etc.
